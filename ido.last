@@ -1,0 +1,96 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/sass/component/" . "modals/")
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/" . "BlueBikeFinal/")
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/sass/" . "base/")
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/" . "js/")
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/js/" . "controllers/")
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/templates/" . "libraries/")
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/" . "controllers/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/sass/base/"
+ "/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/sass/component/buttons/"
+ "/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/sass/component/modals/"
+ "/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/"
+ "/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/js/controllers/"
+ "/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/js/utilities/"
+ "/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/sass/component/"
+ "/home/austin/"
+ "/home/austin/Desktop/Programs/WebPractise/EmberPractise3/Lanjure/app/templates/"
+ "/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/templates/libraries/"
+ "/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/templates/"
+ "/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/templates/admin/"
+ "/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/"
+ "/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/routes/admin/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "_sizing.scss"
+ "_timings.scss"
+ "_padding.scss"
+ "_btn-modal.scss"
+ "_modal-submission-good.scss"
+ "_color.scss"
+ "index.html"
+ "forms.js"
+ "lightbox.js"
+ "_modal-prototype.scss"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/austin/Desktop/Programs/Lisp/Functional/" (22342 33791 745867 635000) "../" "functional.el" ".#functional.el" "./")
+
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/sass/base/" (22342 22058 661494 883000) "_timings.scss" "_index.scss" "_sizing.scss" "_color.scss" "../" "_fonts.scss" "_other.scss" "./" "_padding.scss")
+
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/sass/component/buttons/" (22342 21483 797476 619000) "_btn-lightbox-close.scss" "_index.scss" "_btn-modal.scss" "_btn-send.scss" "_responsive-navbar-button.scss" "_responsive-navbar-button.scss~" "../" "./" "_btn-secondary-outline.scss")
+
+ ("/home/austin/" (22342 12624 253195 158000) ".profile" "Desktop/" "Pictures/" ".gtk-recordmydesktop" "DrawingArea.cs" "Videos/" "Anki/" "gnome-terminal-colors-solarized/" ".gem/" ".npm/" "node_modules/" ".bash_profile" ".Skype/" ".bashrc~" "Chapter 07.zip" ".vimrc.local" "Austin" ".gconf/" ".dropbox/" "oops.png" ".vimperatorrc" ".vimundo/" ".vimrc.before" ".gnome2_private/" ".compiz/" "out.ogv" "gtk-recordMyDesktop-crash.log" "examples.desktop" "Templates/" ".thumbnails/" ".ICEauthority" ".gstreamer-0.10/" ".gnome2/" ".vimperator/" ".recently-used" ".vimbackup/" ".dropbox-dist/" ".v8flags.3.14.5.9.austin.json" "rust-data/" ".bashrc" ".dmrc" ".bash_history" ".local/" ".audacity-data/" "#test#" "dgsgds/" "kazam/" ".gimp-2.8/" "Dropbox/" ".bundler/" ".wine/" "test.rs~" ".spf13-vim-3/" "mac_fonts.tar.gz" ".xsession-errors.old" ".thunderbird/" ".gnome/" ".mozilla/" ".fonts/" ".pki/" ".hardinfo/" "Downloads/" ".cargo/" ".gvfs/" "austin.pub" "deja-dup/" ".Xmodmap" "../" ".Xauthority" ".gitconfig" "Tern/" ".vim/" ".rvm/" "Test/" "Public/" ".viminfo" ".vimrc.bundles" ".emacs" "Austin.pub" "./" ".ycm_extra_conf.py" ".dbus/" "Documents/" ".xsession-errors" "austin" ".vimrc" ".config/" "Music/" "#test.rs#" ".emacs~" ".emacs.d/" ".vimswap/" ".vimviews/" "makeChange.txt" "session" "test2/" "test" ".vimrc~" ".ycm_extra_conf.pyc" "pytify/" ".gnupg/" ".ssh/" "rust/" ".python_history" ".v8flags.5.0.71.47.austin.json" "tmp/" ".bash_logout" "test.rs" "my-emacs/" ".cache/" "Codename-Atlantis/")
+
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/js/controllers/" (22342 18973 637396 873000) "forms.js" "lightbox.js" "../" "./")
+
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/" (22342 21228 21468 494000) "node_modules/" "index.html" "gulpfile.js" ".sass-cache/" "js/" "font-awesome/" "]" ".git/" "sass/" "img/" "../" "bin/" "install_node_dependancies.py" "index.html~" "package.json" "./" "fonts/" "css/")
+
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/sass/component/modals/" (22342 17775 17358 794000) "_modal-submission-good.scss" "_index.scss" "_modal-prototype.scss" "_modal-submission-bad.scss" "../" "./")
+
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/sass/component/" (22341 49497 876284 572000) "modals/" "_index.scss" "lightboxes/" "buttons/" "forms/" "../" "./" "breaks/")
+
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/sass/component/lightboxes/" (22340 480 86894 322000) "_lightbox-prototype.scss" "_index.scss" "../" "./" "_lightbox-portfolio.scss")
+
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/js/utilities/" (22341 40598 160001 834000) "easy-scroll.js" "app.js" "../" "./")
+
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/css/" (22337 21065 236698 339000) "app.css" "starlight.css" "bootstrap.min.css" "bootstrap.css" "../" "./" "app.css.map")
+
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/" (22334 39930 113864 364000) "BlueBikeOld/" "BlueBikeFinal/" "../" "./" "BlueBikeConstruction/")
+
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/js/" (22340 12062 647262 292000) ".tern-port" "utilities/" "../" "#lightbox.js#" "./" "app.js~" "controllers/")
+
+ ("/home/austin/Desktop/Programs/WebProduction/BlueBike-Production/BlueBikeFinal/sass/" (22339 48747 158345 699000) ":../" ".sass-cache/" "base/" "../" "#app.scss#" "utility/" "./" "app.scss" "component/" "layout/")
+
+ ("/home/austin/Desktop/Programs/Lisp/HelloWorld/" (22340 64698 504132 916000) "../" "./" "helloworld.el")
+
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/controllers/" (22338 41504 902443 788000) "contact.js" "index.js" "index.js~" "../" "./" "contact.js~" ".gitkeep")
+
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/routes/admin/" (22338 41767 794452 140000) "invitations.js" "invitations.js~" "../" "./")
+
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/" (22338 43337 170501 998000) "templates/" "helpers/" "node_modules/" "index.html" "app.js" ".tern-port" "gulpfile.js" "styles/" "../" "package.json" "components/" "./" "resolver.js" "router.js" "controllers/" "routes/" "models/" "adapters/")
+
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/templates/" (22338 45614 278574 341000) "application.hbs" "about.hbs" "libraries.hbs~" "navbar.hbs" "admin/" "navbar.hbs~" "libraries.hbs" "#index.hbs#" "contact.hbs" "libraries/" "index.hbs" "../" "components/" "./" "index.hbs~" "contact.hbs~")
+
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/templates/libraries/" (22338 42559 338477 287000) "new.hbs" "index.hbs" "../" "./" "new.hbs~" "index.hbs~")
+
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise3/Lanjure/app/templates/" (22338 49815 750707 819000) "application.hbs" "about.hbs" "navbar/" "index.hbs" "../" "components/" "./" "signup.hbs")
+
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/templates/admin/" (22338 42189 438465 536000) "invitations.hbs~" "invitations.hbs" "../" "./")
+
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/routes/" (22338 41229 354435 34000) "contact.js" "admin/" "about.js" "../" "./" ".gitkeep")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

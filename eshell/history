@@ -1,0 +1,90 @@
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd Lisp/
+ls
+./HelloWorld/
+ls
+ls
+emacs helloworld.el 
+s
+ls
+vim helloworld.el 
+ls
+cd ..
+cd ..
+cd ..
+cd ..
+lsls
+ls
+cd Lisp/
+ls
+cd HelloWorld/
+ls
+ls
+ls
+cd ../
+ls
+cd ../
+ls
+ls -al
+l
+ls
+cd Java/
+ls
+cd CIS350Display/
+ls
+javac DataStructureDemo.java
+ls
+ls
+./DataStructureDemo.class
+cd ../
+ls
+cd ../
+ls
+cd ../../
+ls
+.emacs
+open .emacs
+ls
+ls
+mv lightbox.js controllers/lightbox.js
+ls
+mkdir utilities
+ls
+mv easy-scroll.js utilities/
+ls
+rm button-behavior.js 
+ls
+mv app.js utilities/
+ls
+ls
+ls
+ls
+ls
+cd ../../
+ls
+sass --watch app.scss:../css/app.css
+ls
+gulp
+ls
+spotty "Foo Fighters Break Out"
+spotty play "Foo Fighters Break Out"
+spotty foo
+spotty
+spotty play
+spotty play me
+spotty help
+ls
+cd ../../
+ls
+sass --watch app.scss:../css/app.css
+ls
+python3 functional.py 
+python3 functional.py 

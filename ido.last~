@@ -1,0 +1,48 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/templates/" . "libraries/")
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/" . "templates/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/austin/Desktop/Programs/WebPractise/EmberPractise3/Lanjure/app/templates/"
+ "/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/templates/libraries/"
+ "/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/templates/"
+ "/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/templates/admin/"
+ "/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/"
+ "/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/routes/admin/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "index.hbs"
+ "new.hbs"
+ "invitations.hbs"
+ "libraries.hbs"
+ "navbar.hbs"
+ "router.js"
+ "invitations.js"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise3/Lanjure/app/templates/" (22338 47526 866635 102000) "application.hbs" "index.hbs" "../" "components/" "./")
+
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/templates/libraries/" (22338 42448 942473 780000) "new.hbs" "index.hbs" "../" "./" "index.hbs~")
+
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/templates/" (22338 42394 194472 41000) "application.hbs" "about.hbs" "libraries.hbs~" "navbar.hbs" "admin/" "navbar.hbs~" "libraries.hbs" "contact.hbs" "libraries/" "index.hbs" "../" "components/" "./" ".#index.hbs" "index.hbs~" "contact.hbs~")
+
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/templates/admin/" (22338 42189 438465 536000) "invitations.hbs~" "invitations.hbs" "../" "./")
+
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/" (22338 41699 478449 970000) "templates/" "helpers/" "index.html" "app.js" ".tern-port" "styles/" "../" "components/" "./" "resolver.js" "router.js" "controllers/" "routes/" "models/" "adapters/")
+
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/routes/admin/" (22338 41465 186442 527000) "invitations.js" ".tern-port" "invitations.js~" "../" "./")
+
+ ("/home/austin/Desktop/Programs/WebPractise/EmberPractise2/library-app/app/routes/" (22338 41229 354435 34000) "contact.js" "admin/" "about.js" "../" "./" ".gitkeep")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
